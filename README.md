@@ -17,3 +17,15 @@ This line is separated fro the oen aove by 2 newlies.
 
 This lien is also bebign sa separate paragraphsa ut
 this lien si onlyy
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+``` python
+from os import hello
+s = hello('channges')
+```
