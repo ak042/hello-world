@@ -2,7 +2,7 @@
 
 Here are some texts.
 
-Let's *emphasis*
+Let's *emphasis*.
 Eve more **emphasis**
 
 List
